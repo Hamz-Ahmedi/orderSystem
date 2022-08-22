@@ -1,0 +1,87 @@
+html, body {
+  height: 100%;
+  width: 90%;
+  margin: 0 auto;
+  
+}
+#cart_container table{
+   border-collapse:collapse;
+   width:100%;
+   table-layout:fixed;
+  
+}
+#cart_container table thead{
+  font-weight: 700;
+}
+#cart_container table thead td{
+   background:#1a3586;
+   color:#ffff;
+   border:none;
+  padding: 6px 0;
+  
+}
+.Snuminput {
+  padding-top: 25px;
+  width: 100%;
+  margin:10px;
+  
+}
+a{
+  float: left;
+  margin-top:  10px;
+  
+}
+.quantityinput{
+  width: 35px;
+  padding-left: 5px; 
+}
+#cart_container table td{
+  border: 1px solid #231c30;
+  text-align: center;
+  
+}
+
+.container{
+  width: 100%px;
+  height:200px;
+  border: solid 2px;
+  background-color:#1a3586 ;
+}
+.cost{
+  display:flex;
+  justify-content: space-between;
+  
+  
+  color: white;
+  
+}
+.greenColor{
+  color: green;
+}
+p{
+  float: left;
+  margin-right: 30px;
+  
+}
+.btn{
+  padding: 10px;
+  border: soid 1px #1a3586 ;
+  background-color: ;
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  font-family: "montserrat";
+}
+.btnloc{
+  float: right;
+  padding-top: 20px;
+  padding-right: 20px;
+}
+.btn:hover{
+  color:#8acaea ;
+}
+
+
+
+
+ 
